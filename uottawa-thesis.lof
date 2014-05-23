@@ -1,0 +1,54 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces An example of FEC}}{5}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces An example of erasure coding}}{6}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces An example of network coding}}{7}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces An example of interleaving}}{9}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces An example of frame retransmission}}{10}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces An example of frame Interpolation}}{12}{figure.2.6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Basic VANETs topology\citep {yu2010vehicular}}}{15}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The user in a car plays the video from Internet}}{15}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces A user on the internet plays a real-time video captured from vehicle's camera}}{16}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces A car to car video sharing scenario}}{17}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Internet boundary}}{18}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces VANETs boundary}}{19}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces The topology of converter model}}{20}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces The topology of our converter model solution}}{20}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Generic Tunnel working principle}}{21}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Redundancy tunnel working principle}}{22}{figure.3.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces RTP header}}{25}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces H.264 video map RTP packets}}{26}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Our erasure coding model}}{28}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces The strategy of generating redundancy packets}}{29}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces An example of Index field in different modes}}{31}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Packets will not have same length}}{32}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Make packets to have same size}}{33}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces EC-RTP header}}{33}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces EC-RTP to RTP Converter}}{35}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces GRE header}}{35}{figure.4.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Google's Nexus 10}}{38}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Topology}}{40}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces MP4 file structure}}{47}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces AVCDecoderConfigurationRecord structure}}{49}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces A SDP example}}{51}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Architecture of RTSP server}}{53}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Architecture of Converter}}{54}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces The state of the bitmap after initialization}}{56}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces The sate of the bitmap after handling the first element}}{56}{figure.5.9}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces The final state of the bitmap after traversing all elements}}{57}{figure.5.10}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Basic data structure: one bitmap and one array}}{58}{figure.5.11}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Advanced data structure: two bitmaps and two arrays}}{59}{figure.5.12}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Redundancy Adjustment}}{61}{figure.5.13}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Result of testing simulator in different packet loss rate}}{64}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces 5 meter mark on the runway}}{65}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces The other Wi-Fi signal on the stadium}}{66}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces A map of the route where ran the tested on}}{67}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Result of testing a player in a car run away from the server}}{68}{figure.6.5}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Result of testing delay in different packet loss rate}}{69}{figure.6.6}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Result of testing CPU consumption in different packet loss rate}}{69}{figure.6.7}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Result of testing video quality in 10\% packet loss rate}}{71}{figure.6.8}
+\addvspace {10\p@ }

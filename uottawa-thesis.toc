@@ -1,0 +1,77 @@
+\contentsline {chapter}{List of Tables}{ix}{section*.2}
+\contentsline {chapter}{List of Figures}{x}{section*.4}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Related work}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Redundancy }{4}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Forward Error Correction (FEC)}{4}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Erasure coding}{5}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Network coding}{7}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Selective of different coding technology}{8}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}Interleaving}{8}{section.2.2}
+\contentsline {section}{\numberline {2.3}Key frame retransmission}{9}{section.2.3}
+\contentsline {section}{\numberline {2.4}Dynamic Rate Adjustment}{10}{section.2.4}
+\contentsline {section}{\numberline {2.5}Error concealment}{11}{section.2.5}
+\contentsline {section}{\numberline {2.6}Lower layer technology}{12}{section.2.6}
+\contentsline {section}{\numberline {2.7}The Next Generation codec }{13}{section.2.7}
+\contentsline {chapter}{\numberline {3}Problem formulation}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}VANETs’ basic Topology}{14}{section.3.1}
+\contentsline {section}{\numberline {3.2} Several Scenarios for video streaming}{14}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}The user in a car plays the video from Internet}{14}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}The user on the internet plays a real-time video captured from vehicle's camera}{16}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Car to Car video share}{16}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Packets loss}{16}{section.3.3}
+\contentsline {section}{\numberline {3.4}Models}{17}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Internet boundary}{18}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}VANETs boundary}{19}{subsection.3.4.2}
+\contentsline {subsubsection}{Converter model}{19}{section*.7}
+\contentsline {subsubsection}{Generic Tunnel}{21}{section*.8}
+\contentsline {subsubsection}{Redundancy Tunnel model}{22}{section*.9}
+\contentsline {subsection}{\numberline {3.4.3}Models Comparison}{23}{subsection.3.4.3}
+\contentsline {chapter}{\numberline {4}Protocols}{24}{chapter.4}
+\contentsline {section}{\numberline {4.1}RTP}{24}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Overview}{24}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}RTP Payload Format for H.264 Video}{25}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}REDUNDANCY}{26}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Erasure Coding Model}{27}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}EC-RTP}{27}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Prototype}{27}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Header design}{30}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}EC-RTP server}{33}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Performance influence by redundancy packets}{34}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}EC-RTP to RTP Converter}{34}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Design}{34}{subsection.4.4.1}
+\contentsline {section}{\numberline {4.5}Generic Routing Encapsulation (GRE)}{34}{section.4.5}
+\contentsline {section}{\numberline {4.6}EC Generic Routing Encapsulation (EC-GRE)}{35}{section.4.6}
+\contentsline {chapter}{\numberline {5}Implementation and Demonstration}{37}{chapter.5}
+\contentsline {section}{\numberline {5.1}Overview}{37}{section.5.1}
+\contentsline {section}{\numberline {5.2}Topology}{39}{section.5.2}
+\contentsline {section}{\numberline {5.3}RTSP server}{39}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Why use RTSP}{39}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}RTSP protocol}{40}{subsection.5.3.2}
+\contentsline {subsubsection}{RTSP overview}{40}{section*.10}
+\contentsline {subsubsection}{RTSP URL}{41}{section*.11}
+\contentsline {subsubsection}{RTSP methods}{41}{section*.12}
+\contentsline {subsection}{\numberline {5.3.3}MP4 file}{46}{subsection.5.3.3}
+\contentsline {subsubsection}{Box}{46}{section*.13}
+\contentsline {subsubsection}{SPS and PPS}{48}{section*.14}
+\contentsline {subsection}{\numberline {5.3.4}SDP protocol}{48}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}RTCP protocol}{51}{subsection.5.3.5}
+\contentsline {subsection}{\numberline {5.3.6}Architecture of RTSP server}{52}{subsection.5.3.6}
+\contentsline {section}{\numberline {5.4}RTSP player}{52}{section.5.4}
+\contentsline {section}{\numberline {5.5}Converter}{53}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Architecture of Converter}{53}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Encoding}{54}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}An EC-RTP/RTP packets sort algorithm}{54}{subsection.5.5.3}
+\contentsline {subsubsection}{A high efficiency data structure: Bitmap}{55}{section*.15}
+\contentsline {subsubsection}{Design a data structure to solve this problem}{57}{section*.16}
+\contentsline {subsection}{\numberline {5.5.4}Redundancy rate adjustment}{60}{subsection.5.5.4}
+\contentsline {section}{\numberline {5.6}Simulator}{62}{section.5.6}
+\contentsline {chapter}{\numberline {6}Experiment}{63}{chapter.6}
+\contentsline {subsection}{\numberline {6.0.1}Simulator Test}{63}{subsection.6.0.1}
+\contentsline {subsection}{\numberline {6.0.2}Running car Test}{63}{subsection.6.0.2}
+\contentsline {subsection}{\numberline {6.0.3}Delay Test}{66}{subsection.6.0.3}
+\contentsline {subsection}{\numberline {6.0.4}CPU consumption Test}{67}{subsection.6.0.4}
+\contentsline {subsection}{\numberline {6.0.5}Video quality Test}{67}{subsection.6.0.5}
+\contentsline {subsubsection}{Peak signal-to-noise ratio}{67}{section*.17}
+\contentsline {chapter}{\numberline {7}Conclusion}{72}{chapter.7}
+\contentsline {chapter}{\textbf {References}}{73}{section*.18}

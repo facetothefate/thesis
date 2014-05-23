@@ -1,0 +1,417 @@
+\begin{thebibliography}{63}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Yu and Xu(2010)]{yu2010vehicular}
+Bo~Yu and Chengzhong Xu.
+\newblock Vehicular ad-hoc networks: An information-centric perspective.
+\newblock \emph{ZTE Communications}, 8\penalty0 (3), 2010.
+
+\bibitem[Rezende et~al.(2013{\natexlab{a}})Rezende, Almulla, Boukerche, and
+  Loureiro]{c.redundancy}
+Cristiano Rezende, Mohammed Almulla, Azzedine Boukerche, and Antonio~A.F.
+  Loureiro.
+\newblock The selective use of redundancy for video streaming over vehicular ad
+  hoc networks.
+\newblock \emph{ACM Transactions on Multimedia Computing, Communications and
+  Applications}, July 2013{\natexlab{a}}.
+
+\bibitem[Li(2007)]{rfc.5109}
+Adam Li.
+\newblock Rfc 5109.
+\newblock \emph{RTP payload format for generic forward error correction}, 2007.
+
+\bibitem[Pasin et~al.(2009)Pasin, Petracca, Bucciol, Servetti, and
+  De~Martin]{pasin2009error}
+Marco Pasin, Matteo Petracca, Paolo Bucciol, Antonio Servetti, and Juan~Carlos
+  De~Martin.
+\newblock Error resilient real-time multimedia streaming over vehicular
+  networks.
+\newblock \emph{Vehicle Systems and Safety, Dallas, TX, USA}, 2009.
+
+\bibitem[Hafner(2005)]{hafner2005weaver}
+James~Lee Hafner.
+\newblock Weaver codes: Highly fault tolerant erasure codes for storage
+  systems.
+\newblock In \emph{FAST}, volume~5, pages 211--224, 2005.
+
+\bibitem[Plank et~al.(2009)Plank, Luo, Schuman, Xu, Wilcox-O'Hearn,
+  et~al.]{plank2009performance}
+James~S Plank, Jianqiang Luo, Catherine~D Schuman, Lihao Xu, Zooko
+  Wilcox-O'Hearn, et~al.
+\newblock A performance evaluation and examination of open-source erasure
+  coding libraries for storage.
+\newblock In \emph{FAST}, volume~9, pages 253--265, 2009.
+
+\bibitem[Li et~al.(2009)Li, Shu, and Zheng]{li2009grid}
+Mingqiang Li, Jiwu Shu, and Weimin Zheng.
+\newblock Grid codes: Strip-based erasure codes with high fault tolerance for
+  storage systems.
+\newblock \emph{ACM Transactions on Storage (TOS)}, 4\penalty0 (4):\penalty0
+  15, 2009.
+
+\bibitem[Greenan et~al.(2010)Greenan, Li, and Wylie]{greenan2010flat}
+Kevin~M Greenan, Xiaozhou Li, and Jay~J Wylie.
+\newblock Flat xor-based erasure codes in storage systems: Constructions,
+  efficient recovery, and tradeoffs.
+\newblock In \emph{Mass Storage Systems and Technologies (MSST), 2010 IEEE 26th
+  Symposium on}, pages 1--14. IEEE, 2010.
+
+\bibitem[Hafner(2006)]{hafner2006hover}
+James~Lee Hafner.
+\newblock Hover erasure codes for disk arrays.
+\newblock In \emph{Dependable Systems and Networks, 2006. DSN 2006.
+  International Conference on}, pages 217--226. IEEE, 2006.
+
+\bibitem[Rezende et~al.(2013{\natexlab{b}})Rezende, Almulla, and
+  Boukerche]{rezende2013use}
+Cristiano Rezende, Mohammed Almulla, and Azzedine Boukerche.
+\newblock The use of erasure coding for video streaming unicast over vehicular
+  ad hoc networks.
+\newblock In \emph{Local Computer Networks (LCN), 2013 IEEE 38th Conference
+  on}, pages 715--718. IEEE, 2013{\natexlab{b}}.
+
+\bibitem[Wylie and Swaminathan(2007)]{wylie2007determining}
+Jay~J Wylie and Ram Swaminathan.
+\newblock Determining fault tolerance of xor-based erasure codes efficiently.
+\newblock In \emph{Dependable Systems and Networks, 2007. DSN'07. 37th Annual
+  IEEE/IFIP International Conference on}, pages 206--215. IEEE, 2007.
+
+\bibitem[Bloemer et~al.(1995)Bloemer, Kalfane, Karp, Karpinski, Luby, and
+  Zuckerman]{bloemer1995xor}
+Johannes Bloemer, Malik Kalfane, Richard Karp, Marek Karpinski, Michael Luby,
+  and David Zuckerman.
+\newblock An xor-based erasure-resilient coding scheme.
+\newblock 1995.
+
+\bibitem[Krohn et~al.(2004)Krohn, Freedman, and Mazieres]{krohn2004fly}
+Maxwell~N Krohn, Michael~J Freedman, and David Mazieres.
+\newblock On-the-fly verification of rateless erasure codes for efficient
+  content distribution.
+\newblock In \emph{Security and Privacy, 2004. Proceedings. 2004 IEEE Symposium
+  on}, pages 226--240. IEEE, 2004.
+
+\bibitem[Luby(2002)]{luby2002digital}
+Michael Luby.
+\newblock Lt codes.
+\newblock 2002.
+
+\bibitem[Karp et~al.(2004)Karp, Luby, and Shokrollahi]{karp2004finite}
+Richard Karp, Michael Luby, and Amin Shokrollahi.
+\newblock Finite length analysis of lt codes.
+\newblock In \emph{Information Theory, 2004. ISIT 2004. Proceedings.
+  International Symposium on}, page~39. IEEE, 2004.
+
+\bibitem[Li et~al.(2003)Li, Yeung, and Cai]{li2003linear}
+S-YR Li, Raymond~W Yeung, and Ning Cai.
+\newblock Linear network coding.
+\newblock \emph{Information Theory, IEEE Transactions on}, 49\penalty0
+  (2):\penalty0 371--381, 2003.
+
+\bibitem[Sardari et~al.(2010)Sardari, Hendessi, and Fekri]{sardari2010ddrc}
+Mohsen Sardari, Faramarz Hendessi, and Faramarz Fekri.
+\newblock Ddrc: Data dissemination in vehicular networks using rateless codes.
+\newblock \emph{Journal of Information Science \& Engineering}, 26\penalty0
+  (3), 2010.
+
+\bibitem[Sardari et~al.(2009)Sardari, Hendessi, and Fekri]{sardari2009dmrc}
+Mohsen Sardari, Faramarz Hendessi, and Faramarz Fekri.
+\newblock Dmrc: dissemination of multimedia in vehicular networks using
+  rateless codes.
+\newblock In \emph{INFOCOM Workshops 2009, IEEE}, pages 1--6. IEEE, 2009.
+
+\bibitem[Ahlswede et~al.(2000)Ahlswede, Cai, Li, and
+  Yeung]{ahlswede2000network}
+Rudolf Ahlswede, Ning Cai, S-YR Li, and Raymond~W Yeung.
+\newblock Network information flow.
+\newblock \emph{Information Theory, IEEE Transactions on}, 46\penalty0
+  (4):\penalty0 1204--1216, 2000.
+
+\bibitem[Lee et~al.(2008)Lee, Lee, Lee, and Gerla]{lee2008content}
+Seung-Hoon Lee, Uichin Lee, Kang-Won Lee, and Mario Gerla.
+\newblock Content distribution in vanets using network coding: the effect of
+  disk i/o and processing o/h.
+\newblock In \emph{Sensor, Mesh and Ad Hoc Communications and Networks, 2008.
+  SECON'08. 5th Annual IEEE Communications Society Conference on}, pages
+  117--125. IEEE, 2008.
+
+\bibitem[Lee et~al.(2006)Lee, Park, Yeh, Pau, and Gerla]{lee2006code}
+Uichin Lee, Joon-Sang Park, Joseph Yeh, Giovanni Pau, and Mario Gerla.
+\newblock Code torrent: content distribution using network coding in vanet.
+\newblock In \emph{Proceedings of the 1st international workshop on
+  Decentralized resource sharing in mobile computing and networking}, pages
+  1--5. ACM, 2006.
+
+\bibitem[Ahmed and Kanhere(2006)]{ahmed2006vanetcode}
+Shabbir Ahmed and Salil~S Kanhere.
+\newblock Vanetcode: network coding to enhance cooperative downloading in
+  vehicular ad-hoc networks.
+\newblock In \emph{Proceedings of the 2006 international conference on Wireless
+  communications and mobile computing}, pages 527--532. ACM, 2006.
+
+\bibitem[Zhang et~al.(2012)Zhang, Jing, Tang, Fowler, Cui, and
+  Dong]{zhang2012joint}
+Xingjun Zhang, Cuiping Jing, Feilong Tang, Scott Fowler, Huali Cui, and Xiaoshe
+  Dong.
+\newblock Joint redundant and random network coding for robust video
+  transmission over lossy networks.
+\newblock \emph{Mobile Information Systems}, 8\penalty0 (3):\penalty0 213--230,
+  2012.
+
+\bibitem[Fujimura et~al.(2008)Fujimura, Oh, and Gerla]{fujimura2008network}
+Atsushi Fujimura, Soon~Y Oh, and Mario Gerla.
+\newblock Network coding vs. erasure coding: Reliable multicast in ad hoc
+  networks.
+\newblock In \emph{Military Communications Conference, 2008. MILCOM 2008.
+  IEEE}, pages 1--7. IEEE, 2008.
+
+\bibitem[Lambert et~al.(2006)Lambert, De~Neve, Dhondt, and Van~de
+  Walle]{lambert2006flexible}
+Peter Lambert, Wesley De~Neve, Yves Dhondt, and Rik Van~de Walle.
+\newblock Flexible macroblock ordering in h. 264/avc.
+\newblock \emph{Journal of Visual Communication and Image Representation},
+  17\penalty0 (2):\penalty0 358--375, 2006.
+
+\bibitem[Qadri et~al.(2009)Qadri, Altaf, Fleury, Ghanbari, and
+  Sammak]{qadri2009robust}
+N~Qadri, Muhammad Altaf, Martin Fleury, Mohammed Ghanbari, and Hanadi Sammak.
+\newblock Robust video streaming over an urban vanet.
+\newblock In \emph{Wireless and Mobile Computing, Networking and
+  Communications, 2009. WIMOB 2009. IEEE International Conference on}, pages
+  429--434. IEEE, 2009.
+
+\bibitem[Qadri et~al.(2010)Qadri, Altaf, Fleury, and Ghanbari]{qadri2010robust}
+N~Qadri, Muhammad Altaf, Martin Fleury, and Mohammed Ghanbari.
+\newblock Robust video communication over an urban vanet.
+\newblock \emph{Mobile Information Systems}, 6\penalty0 (3):\penalty0 259--280,
+  2010.
+
+\bibitem[Razzaq and Mehaoua(2010)]{razzaq2010video}
+Abdul Razzaq and Ahmed Mehaoua.
+\newblock Video transport over vanets: Multi-stream coding with multi-path and
+  network coding.
+\newblock In \emph{Local Computer Networks (LCN), 2010 IEEE 35th Conference
+  on}, pages 32--39. IEEE, 2010.
+
+\bibitem[Fairhurst and Wood(2002)]{fairhurst2002advice}
+Gorry Fairhurst and Lloyd Wood.
+\newblock Advice to link designers on link automatic repeat request (arq).
+\newblock 2002.
+
+\bibitem[Xing and Cai(2012)]{Min.Adaptive.paper}
+Min Xing and Lin Cai.
+\newblock Adaptive video streaming with inter-vehicle relay for highway vanet
+  scenario.
+\newblock In \emph{IEEE ICC 2012 Wireless Networks Symposium}, Dept of ECE,
+  University of Victoria, BC, Canada, 2012.
+
+\bibitem[Krasic et~al.(2003)Krasic, Walpole, and Feng]{krasic2003quality}
+Charles Krasic, Jonathan Walpole, and Wu-chi Feng.
+\newblock Quality-adaptive media streaming by priority drop.
+\newblock In \emph{Proceedings of the 13th international workshop on Network
+  and operating systems support for digital audio and video}, pages 112--121.
+  ACM, 2003.
+
+\bibitem[Ho et~al.(2011)Ho, Wang, and Hsieh]{ho2011resilient}
+Hsuan-Fu Ho, Kuochen Wang, and Yi-Ling Hsieh.
+\newblock Resilient video streaming for urban vanets.
+\newblock In \emph{Proc. 7th Workshop on Wireless Ad Hoc and Sensor Networks},
+  2011.
+
+\bibitem[Jiang and Delgrossi(2008)]{jiang2008ieee}
+Daniel Jiang and Luca Delgrossi.
+\newblock Ieee 802.11 p: Towards an international standard for wireless access
+  in vehicular environments.
+\newblock In \emph{Vehicular Technology Conference, 2008. VTC Spring 2008.
+  IEEE}, pages 2036--2040. IEEE, 2008.
+
+\bibitem[Eichler(2007)]{eichler2007performance}
+Stephan Eichler.
+\newblock Performance evaluation of the ieee 802.11 p wave communication
+  standard.
+\newblock In \emph{Vehicular Technology Conference, 2007. VTC-2007 Fall. 2007
+  IEEE 66th}, pages 2199--2203. IEEE, 2007.
+
+\bibitem[Asefi et~al.(2012)Asefi, Mark, and Shen]{asefi2012mobility}
+Mahdi Asefi, Jon~W Mark, and Xuemin Shen.
+\newblock A mobility-aware and quality-driven retransmission limit adaptation
+  scheme for video streaming over vanets.
+\newblock \emph{Wireless Communications, IEEE Transactions on}, 11\penalty0
+  (5):\penalty0 1817--1827, 2012.
+
+\bibitem[Piñol et~al.(2013)Piñol, Torres, Lopez, Martinez, and
+  Malumbres]{PinolTLMM13}
+Pablo Piñol, A.~Torres, O.~Lopez, M.~Martinez, and Manuel~P. Malumbres.
+\newblock Evaluating hevc video delivery in vanet scenarios.
+\newblock In \emph{Wireless Days}, pages 1--6. IEEE, 2013.
+\newblock URL
+  \url{http://dblp.uni-trier.de/db/conf/wd/wd2013.html#PinolTLMM13}.
+
+\bibitem[Schulzrinne et~al.(2003)Schulzrinne, Casner, Frederick, and
+  Jacobson]{rfc.3550}
+H~Schulzrinne, S~Casner, R~Frederick, and V~Jacobson.
+\newblock Rfc 3550.
+\newblock \emph{RTP: a transport protocol for real-time applications}, 7, 2003.
+
+\bibitem[Wang et~al.(2011)Wang, Even, Technologies, Kristensen, and
+  Jesup]{rfc.6184}
+Y.-K. Wang, R.~Even, Huawei Technologies, T.~Kristensen, and R.~Jesup.
+\newblock Rfc 6184.
+\newblock \emph{RTP Payload Format for H.264 Video}, May 2011.
+
+\bibitem[Farinacci et~al.(2000)Farinacci, Li, Hanks, Meyer, and
+  Traina]{rfc.2784}
+D.~Farinacci, T.~Li, S.~Hanks, D.~Meyer, and P.~Traina.
+\newblock Rfc 2784.
+\newblock \emph{Generic Routing Encapsulation (GRE)}, April 2000.
+
+\bibitem[Berners-Lee et~al.(1994)Berners-Lee, Masinter, and
+  McCahill]{berners1994rfc}
+Tim Berners-Lee, Larry Masinter, and Mark McCahill.
+\newblock Rfc 1738: Uniform resource locator.
+\newblock \emph{Internet Engineering Task Force}, 1994.
+
+\bibitem[Google({\natexlab{a}})]{googleUrl}
+Google.
+\newblock \emph{URL class Manual}, {\natexlab{a}}.
+\newblock \url{http://developer.android.com/reference/java/net/URL.html}.
+
+\bibitem[Schulzrinne and A.~Rao(1998)]{rfc.2326}
+H.~Schulzrinne and R.~Lanphier A.~Rao.
+\newblock Rfc 2326.
+\newblock \emph{Real Time Streaming Protocol (RTSP)}, April 1998.
+
+\bibitem[Google({\natexlab{b}})]{googleVideoView}
+Google.
+\newblock \emph{VideoView class Manual}, {\natexlab{b}}.
+\newblock
+  \url{http://developer.android.com/reference/android/widget/VideoView.html}.
+
+\bibitem[Bentley(2006)]{ben.book}
+Jon Bentley.
+\newblock \emph{Programming Pearls}.
+\newblock Dorling Kindersley Pvt Ltd, 2006.
+
+\bibitem[Thomos et~al.(2006)Thomos, Boulgouris, and
+  Strintzis]{thomos2006optimized}
+Nikolaos Thomos, Nikolaos~V Boulgouris, and Michael~G Strintzis.
+\newblock Optimized transmission of jpeg2000 streams over wireless channels.
+\newblock \emph{Image Processing, IEEE Transactions on}, 15\penalty0
+  (1):\penalty0 54--67, 2006.
+
+\bibitem[Li and Cai(2007)]{li2007robust}
+Xiangjun Li and Jianfei Cai.
+\newblock Robust transmission of jpeg2000 encoded images over packet loss
+  channels.
+\newblock In \emph{Multimedia and Expo, 2007 IEEE International Conference on},
+  pages 947--950, 2007.
+
+\bibitem[Wing(2007)]{rfc.3605}
+Dan Wing.
+\newblock Rfc 3605.
+\newblock \emph{Symmetric RTP/RTP Control Protocol (RTCP)}, October 2007.
+
+\bibitem[Dommety(2000)]{rfc.2890}
+G.~Dommety.
+\newblock Rfc 2890.
+\newblock \emph{Key and Sequence Number Extensions to GRE}, September 2000.
+
+\bibitem[Handley et~al.(2006)Handley, Perkins, and Jacobson]{rfc.4566}
+Mark Handley, Colin Perkins, and Van Jacobson.
+\newblock Rfc 4566.
+\newblock \emph{SDP: session description protocol}, July 2006.
+
+\bibitem[Jiang et~al.(2010)Jiang, Chen, Yang, Jie, Leung, Xu, and
+  Wang]{jiang2010estimation}
+Hao Jiang, Siyue Chen, Yang Yang, Zhizhong Jie, Henry Leung, Jun Xu, and Lin
+  Wang.
+\newblock Estimation of packet loss rate at wireless link of vanet--rple.
+\newblock In \emph{Wireless Communications Networking and Mobile Computing
+  (WiCOM), 2010 6th International Conference on}, pages 1--5. IEEE, 2010.
+
+\bibitem[Korhonen and Wang(2005)]{korhonen2005effect}
+Jari Korhonen and Ye~Wang.
+\newblock Effect of packet size on loss rate and delay in wireless links.
+\newblock In \emph{Wireless Communications and Networking Conference, 2005
+  IEEE}, volume~3, pages 1608--1613. IEEE, 2005.
+
+\bibitem[Chu and Huang(2007)]{chu2007delivering}
+Yung-Cheng Chu and Nen-Fu Huang.
+\newblock Delivering of live video streaming for vehicular communication using
+  peer-to-peer approach.
+\newblock In \emph{2007 Mobile Networking for Vehicular Environments}, pages
+  1--6. IEEE, 2007.
+
+\bibitem[Wang and Hassan(2012)]{wang2012blind}
+Zhe Wang and Mahbub Hassan.
+\newblock Blind xor: low-overhead loss recovery for vehicular safety
+  communications.
+\newblock \emph{Vehicular Technology, IEEE Transactions on}, 61\penalty0
+  (1):\penalty0 35--45, 2012.
+
+\bibitem[Xie et~al.(2007)Xie, Hua, Wang, and Ho]{xie2007performance}
+Fei Xie, Kien~A Hua, Wenjing Wang, and Yao~Hua Ho.
+\newblock Performance study of live video streaming over highway vehicular ad
+  hoc networks.
+\newblock In \emph{Vehicular Technology Conference, 2007. VTC-2007 Fall. 2007
+  IEEE 66th}, pages 2121--2125. IEEE, 2007.
+
+\bibitem[Huynh-Thu and Ghanbari(2012)]{huynh2012accuracy}
+Quan Huynh-Thu and Mohammed Ghanbari.
+\newblock The accuracy of psnr in predicting video quality for different video
+  scenes and frame rates.
+\newblock \emph{Telecommunication Systems}, 49\penalty0 (1):\penalty0 35--48,
+  2012.
+
+\bibitem[Hore and Ziou(2010)]{hore2010image}
+Alain Hore and Djemel Ziou.
+\newblock Image quality metrics: Psnr vs. ssim.
+\newblock In \emph{Pattern Recognition (ICPR), 2010 20th International
+  Conference on}, pages 2366--2369. IEEE, 2010.
+
+\bibitem[Wang et~al.(2002)Wang, Bovik, and Lu]{wang2002image}
+Zhou Wang, Alan~C Bovik, and Ligang Lu.
+\newblock Why is image quality assessment so difficult?
+\newblock In \emph{Acoustics, Speech, and Signal Processing (ICASSP), 2002 IEEE
+  International Conference on}, volume~4, pages IV--3313. IEEE, 2002.
+
+\bibitem[Huynh-Thu and Ghanbari(2008)]{huynh2008scope}
+Quan Huynh-Thu and Mohammed Ghanbari.
+\newblock Scope of validity of psnr in image/video quality assessment.
+\newblock \emph{Electronics letters}, 44\penalty0 (13):\penalty0 800--801,
+  2008.
+
+\bibitem[Cisco()]{ciscoURL}
+Cisco.
+\newblock \emph{Implementing Tunnels}.
+\newblock
+  \url{http://www.cisco.com/c/en/us/td/docs/ios/12_4/interface/configuration/guide/inb_tun.html}.
+
+\bibitem[Netpbm(2001)]{pnmpsnr}
+Netpbm.
+\newblock \emph{pnmpsnr User Manual}, March 2001.
+\newblock \url{http://netpbm.sourceforge.net/doc/pnmpsnr.html}.
+
+\bibitem[Apple()]{appleQuickTime}
+Apple.
+\newblock \emph{What is Quicktime 7?}
+\newblock \url{http://www.apple.com/ca/quicktime/what-is/}.
+
+\bibitem[Yan et~al.(2012)Yan, Li, Yang, Lou, and Zhai]{yan2012throughput}
+Qiben Yan, Ming Li, Zhenyu Yang, Wenjing Lou, and Hongqiang Zhai.
+\newblock Throughput analysis of cooperative mobile content distribution in
+  vehicular network using symbol level network coding.
+\newblock \emph{Selected Areas in Communications, IEEE Journal on}, 30\penalty0
+  (2):\penalty0 484--492, 2012.
+
+\bibitem[Ghafoor et~al.(2012)Ghafoor, Abu~Bakar, Zainuddin, Ke, and
+  Gonzalez]{ghafoor2012reliable}
+Kayhan~Zrar Ghafoor, Kamalrulnizam Abu~Bakar, Zaitul~Marlizawati Zainuddin,
+  Chih-Heng Ke, and Alberto~J Gonzalez.
+\newblock Reliable video geocasting over vehicular ad hoc networks.
+\newblock \emph{Adhoc \& Sensor Wireless Networks}, 15, 2012.
+
+\end{thebibliography}

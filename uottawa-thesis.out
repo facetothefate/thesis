@@ -1,0 +1,66 @@
+\BOOKMARK [0][-]{section*.2}{List of Tables}{}% 1
+\BOOKMARK [0][-]{section*.4}{List of Figures}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
+\BOOKMARK [0][-]{chapter.2}{Related work}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Redundancy }{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.1.1}{Forward Error Correction \(FEC\)}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.2}{Erasure coding}{section.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.1.3}{Network coding}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.4}{Selective of different coding technology}{section.2.1}% 9
+\BOOKMARK [1][-]{section.2.2}{Interleaving}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.3}{Key frame retransmission}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.4}{Dynamic Rate Adjustment}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.5}{Error concealment}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.6}{Lower layer technology}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.7}{The Next Generation codec }{chapter.2}% 15
+\BOOKMARK [0][-]{chapter.3}{Problem formulation}{}% 16
+\BOOKMARK [1][-]{section.3.1}{VANETs’ basic Topology}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{ Several Scenarios for video streaming}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.2.1}{The user in a car plays the video from Internet}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.2}{The user on the internet plays a real-time video captured from vehicle's camera}{section.3.2}% 20
+\BOOKMARK [2][-]{subsection.3.2.3}{Car to Car video share}{section.3.2}% 21
+\BOOKMARK [1][-]{section.3.3}{Packets loss}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.4}{Models}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.4.1}{Internet boundary}{section.3.4}% 24
+\BOOKMARK [2][-]{subsection.3.4.2}{VANETs boundary}{section.3.4}% 25
+\BOOKMARK [2][-]{subsection.3.4.3}{Models Comparison}{section.3.4}% 26
+\BOOKMARK [0][-]{chapter.4}{Protocols}{}% 27
+\BOOKMARK [1][-]{section.4.1}{RTP}{chapter.4}% 28
+\BOOKMARK [2][-]{subsection.4.1.1}{Overview}{section.4.1}% 29
+\BOOKMARK [2][-]{subsection.4.1.2}{RTP Payload Format for H.264 Video}{section.4.1}% 30
+\BOOKMARK [1][-]{section.4.2}{REDUNDANCY}{chapter.4}% 31
+\BOOKMARK [2][-]{subsection.4.2.1}{Erasure Coding Model}{section.4.2}% 32
+\BOOKMARK [1][-]{section.4.3}{EC-RTP}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.3.1}{Prototype}{section.4.3}% 34
+\BOOKMARK [2][-]{subsection.4.3.2}{Header design}{section.4.3}% 35
+\BOOKMARK [2][-]{subsection.4.3.3}{EC-RTP server}{section.4.3}% 36
+\BOOKMARK [2][-]{subsection.4.3.4}{Performance influence by redundancy packets}{section.4.3}% 37
+\BOOKMARK [1][-]{section.4.4}{EC-RTP to RTP Converter}{chapter.4}% 38
+\BOOKMARK [2][-]{subsection.4.4.1}{Design}{section.4.4}% 39
+\BOOKMARK [1][-]{section.4.5}{Generic Routing Encapsulation \(GRE\)}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.6}{EC Generic Routing Encapsulation \(EC-GRE\)}{chapter.4}% 41
+\BOOKMARK [0][-]{chapter.5}{Implementation and Demonstration}{}% 42
+\BOOKMARK [1][-]{section.5.1}{Overview}{chapter.5}% 43
+\BOOKMARK [1][-]{section.5.2}{Topology}{chapter.5}% 44
+\BOOKMARK [1][-]{section.5.3}{RTSP server}{chapter.5}% 45
+\BOOKMARK [2][-]{subsection.5.3.1}{Why use RTSP}{section.5.3}% 46
+\BOOKMARK [2][-]{subsection.5.3.2}{RTSP protocol}{section.5.3}% 47
+\BOOKMARK [2][-]{subsection.5.3.3}{MP4 file}{section.5.3}% 48
+\BOOKMARK [2][-]{subsection.5.3.4}{SDP protocol}{section.5.3}% 49
+\BOOKMARK [2][-]{subsection.5.3.5}{RTCP protocol}{section.5.3}% 50
+\BOOKMARK [2][-]{subsection.5.3.6}{Architecture of RTSP server}{section.5.3}% 51
+\BOOKMARK [1][-]{section.5.4}{RTSP player}{chapter.5}% 52
+\BOOKMARK [1][-]{section.5.5}{Converter}{chapter.5}% 53
+\BOOKMARK [2][-]{subsection.5.5.1}{Architecture of Converter}{section.5.5}% 54
+\BOOKMARK [2][-]{subsection.5.5.2}{Encoding}{section.5.5}% 55
+\BOOKMARK [2][-]{subsection.5.5.3}{An EC-RTP/RTP packets sort algorithm}{section.5.5}% 56
+\BOOKMARK [2][-]{subsection.5.5.4}{Redundancy rate adjustment}{section.5.5}% 57
+\BOOKMARK [1][-]{section.5.6}{Simulator}{chapter.5}% 58
+\BOOKMARK [0][-]{chapter.6}{Experiment}{}% 59
+\BOOKMARK [1][-]{subsection.6.0.1}{Simulator Test}{chapter.6}% 60
+\BOOKMARK [2][-]{subsection.6.0.2}{Running car Test}{subsection.6.0.1}% 61
+\BOOKMARK [2][-]{subsection.6.0.3}{Delay Test}{subsection.6.0.1}% 62
+\BOOKMARK [2][-]{subsection.6.0.4}{CPU consumption Test}{subsection.6.0.1}% 63
+\BOOKMARK [2][-]{subsection.6.0.5}{Video quality Test}{subsection.6.0.1}% 64
+\BOOKMARK [0][-]{chapter.7}{Conclusion}{}% 65
+\BOOKMARK [0][-]{section*.18}{References}{}% 66

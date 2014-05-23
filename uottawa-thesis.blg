@@ -1,0 +1,24 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: uottawa-thesis.aux
+A level-1 auxiliary file: parts/10-introduction.aux
+A level-1 auxiliary file: parts/20-relatedwork.aux
+A level-1 auxiliary file: parts/30-casestudy.aux
+A level-1 auxiliary file: parts/40-protocols.aux
+A level-1 auxiliary file: parts/50-demonstration.aux
+A level-1 auxiliary file: parts/60-experiment.aux
+A level-1 auxiliary file: parts/70-conclusion.aux
+The style file: unsrtnat.bst
+Database file #1: bibliography/keylatex.bib
+Repeated entry---line 330 of file bibliography/keylatex.bib
+ : @article{qadri2010robust
+ :                         ,
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "PinolTLMM13"
+refers to entry "conf/wd/2013", which doesn't exist
+Warning--empty journal in bloemer1995xor
+Warning--empty journal in luby2002digital
+Warning--empty journal in fairhurst2002advice
+Warning--empty year in googleUrl
+Warning--empty year in googleVideoView
+Warning--empty year in ciscoURL
+Warning--empty year in appleQuickTime
+(There were 2 error messages)
