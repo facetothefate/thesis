@@ -5,11 +5,6 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Yu and Xu(2010)]{yu2010vehicular}
-Bo~Yu and Chengzhong Xu.
-\newblock Vehicular ad-hoc networks: An information-centric perspective.
-\newblock \emph{ZTE Communications}, 8\penalty0 (3), 2010.
-
 \bibitem[Rezende et~al.(2013{\natexlab{a}})Rezende, Almulla, Boukerche, and
   Loureiro]{c.redundancy}
 Cristiano Rezende, Mohammed Almulla, Azzedine Boukerche, and Antonio~A.F.
@@ -111,17 +106,17 @@ S-YR Li, Raymond~W Yeung, and Ning Cai.
 \newblock \emph{Information Theory, IEEE Transactions on}, 49\penalty0
   (2):\penalty0 371--381, 2003.
 
-\bibitem[Sardari et~al.(2010)Sardari, Hendessi, and Fekri]{sardari2010ddrc}
-Mohsen Sardari, Faramarz Hendessi, and Faramarz Fekri.
-\newblock Ddrc: Data dissemination in vehicular networks using rateless codes.
-\newblock \emph{Journal of Information Science \& Engineering}, 26\penalty0
-  (3), 2010.
-
 \bibitem[Sardari et~al.(2009)Sardari, Hendessi, and Fekri]{sardari2009dmrc}
 Mohsen Sardari, Faramarz Hendessi, and Faramarz Fekri.
 \newblock Dmrc: dissemination of multimedia in vehicular networks using
   rateless codes.
 \newblock In \emph{INFOCOM Workshops 2009, IEEE}, pages 1--6. IEEE, 2009.
+
+\bibitem[Sardari et~al.(2010)Sardari, Hendessi, and Fekri]{sardari2010ddrc}
+Mohsen Sardari, Faramarz Hendessi, and Faramarz Fekri.
+\newblock Ddrc: Data dissemination in vehicular networks using rateless codes.
+\newblock \emph{Journal of Information Science \& Engineering}, 26\penalty0
+  (3), 2010.
 
 \bibitem[Ahlswede et~al.(2000)Ahlswede, Cai, Li, and
   Yeung]{ahlswede2000network}
@@ -250,11 +245,21 @@ Pablo Piñol, A.~Torres, O.~Lopez, M.~Martinez, and Manuel~P. Malumbres.
 \newblock URL
   \url{http://dblp.uni-trier.de/db/conf/wd/wd2013.html#PinolTLMM13}.
 
+\bibitem[Yu and Xu(2010)]{yu2010vehicular}
+Bo~Yu and Chengzhong Xu.
+\newblock Vehicular ad-hoc networks: An information-centric perspective.
+\newblock \emph{ZTE Communications}, 8\penalty0 (3), 2010.
+
 \bibitem[Schulzrinne et~al.(2003)Schulzrinne, Casner, Frederick, and
   Jacobson]{rfc.3550}
 H~Schulzrinne, S~Casner, R~Frederick, and V~Jacobson.
 \newblock Rfc 3550.
 \newblock \emph{RTP: a transport protocol for real-time applications}, 7, 2003.
+
+\bibitem[Apple()]{appleQuickTime}
+Apple.
+\newblock \emph{What is Quicktime 7?}
+\newblock \url{http://www.apple.com/ca/quicktime/what-is/}.
 
 \bibitem[Wang et~al.(2011)Wang, Even, Technologies, Kristensen, and
   Jesup]{rfc.6184}
@@ -394,11 +399,6 @@ Cisco.
 Netpbm.
 \newblock \emph{pnmpsnr User Manual}, March 2001.
 \newblock \url{http://netpbm.sourceforge.net/doc/pnmpsnr.html}.
-
-\bibitem[Apple()]{appleQuickTime}
-Apple.
-\newblock \emph{What is Quicktime 7?}
-\newblock \url{http://www.apple.com/ca/quicktime/what-is/}.
 
 \bibitem[Yan et~al.(2012)Yan, Li, Yang, Lou, and Zhai]{yan2012throughput}
 Qiben Yan, Ming Li, Zhenyu Yang, Wenjing Lou, and Hongqiang Zhai.

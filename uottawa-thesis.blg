@@ -14,11 +14,12 @@ Repeated entry---line 330 of file bibliography/keylatex.bib
 I'm skipping whatever remains of this entry
 A bad cross reference---entry "PinolTLMM13"
 refers to entry "conf/wd/2013", which doesn't exist
+Warning--I didn't find a database entry for "sardari2009ddrc"
 Warning--empty journal in bloemer1995xor
 Warning--empty journal in luby2002digital
 Warning--empty journal in fairhurst2002advice
+Warning--empty year in appleQuickTime
 Warning--empty year in googleUrl
 Warning--empty year in googleVideoView
 Warning--empty year in ciscoURL
-Warning--empty year in appleQuickTime
 (There were 2 error messages)
