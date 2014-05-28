@@ -5,6 +5,11 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[Yu and Xu(2010)]{yu2010vehicular}
+Bo~Yu and Chengzhong Xu.
+\newblock Vehicular ad-hoc networks: An information-centric perspective.
+\newblock \emph{ZTE Communications}, 8\penalty0 (3), 2010.
+
 \bibitem[Rezende et~al.(2013{\natexlab{a}})Rezende, Almulla, Boukerche, and
   Loureiro]{c.redundancy}
 Cristiano Rezende, Mohammed Almulla, Azzedine Boukerche, and Antonio~A.F.
@@ -245,11 +250,6 @@ Pablo Piñol, A.~Torres, O.~Lopez, M.~Martinez, and Manuel~P. Malumbres.
 \newblock URL
   \url{http://dblp.uni-trier.de/db/conf/wd/wd2013.html#PinolTLMM13}.
 
-\bibitem[Yu and Xu(2010)]{yu2010vehicular}
-Bo~Yu and Chengzhong Xu.
-\newblock Vehicular ad-hoc networks: An information-centric perspective.
-\newblock \emph{ZTE Communications}, 8\penalty0 (3), 2010.
-
 \bibitem[Schulzrinne et~al.(2003)Schulzrinne, Casner, Frederick, and
   Jacobson]{rfc.3550}
 H~Schulzrinne, S~Casner, R~Frederick, and V~Jacobson.
@@ -393,7 +393,8 @@ Quan Huynh-Thu and Mohammed Ghanbari.
 Cisco.
 \newblock \emph{Implementing Tunnels}.
 \newblock
-  \url{http://www.cisco.com/c/en/us/td/docs/ios/12_4/interface/configuration/guide/inb_tun.html}.
+  \url{http://www.cisco.com/c/en/us/td/docs/ios/12_4/interface/configuration/g%
+uide/inb_tun.html}.
 
 \bibitem[Netpbm(2001)]{pnmpsnr}
 Netpbm.

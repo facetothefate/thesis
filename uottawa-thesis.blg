@@ -1,4 +1,5 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: uottawa-thesis.aux
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: uottawa-thesis.aux
 A level-1 auxiliary file: parts/10-introduction.aux
 A level-1 auxiliary file: parts/20-relatedwork.aux
 A level-1 auxiliary file: parts/30-casestudy.aux
@@ -14,7 +15,7 @@ Repeated entry---line 330 of file bibliography/keylatex.bib
 I'm skipping whatever remains of this entry
 A bad cross reference---entry "PinolTLMM13"
 refers to entry "conf/wd/2013", which doesn't exist
-Warning--I didn't find a database entry for "sardari2009ddrc"
+Warning--I didn't find a database entry for "rfc.2336"
 Warning--empty journal in bloemer1995xor
 Warning--empty journal in luby2002digital
 Warning--empty journal in fairhurst2002advice
@@ -22,4 +23,45 @@ Warning--empty year in appleQuickTime
 Warning--empty year in googleUrl
 Warning--empty year in googleVideoView
 Warning--empty year in ciscoURL
+You've used 63 entries,
+            2481 wiz_defined-function locations,
+            884 strings with 15544 characters,
+and the built_in function-call counts, 26310 in all, are:
+= -- 2303
+> -- 1267
+< -- 58
++ -- 496
+- -- 368
+* -- 1867
+:= -- 3988
+add.period$ -- 213
+call.type$ -- 63
+change.case$ -- 120
+chr.to.int$ -- 61
+cite$ -- 70
+duplicate$ -- 1457
+empty$ -- 2433
+format.name$ -- 461
+if$ -- 5817
+int.to.chr$ -- 3
+int.to.str$ -- 64
+missing$ -- 59
+newline$ -- 324
+num.names$ -- 189
+pop$ -- 625
+preamble$ -- 1
+purify$ -- 63
+quote$ -- 0
+skip$ -- 910
+stack$ -- 0
+substring$ -- 1122
+swap$ -- 379
+text.length$ -- 30
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 438
+warning$ -- 7
+while$ -- 224
+width$ -- 0
+write$ -- 830
 (There were 2 error messages)
